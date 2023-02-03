@@ -1,5 +1,5 @@
 # Mail
-Mail-copy project
+A single page web application that emulates the functionality of google mail, using python and django for the backend and javascript,html,css and bootstrap for the frontend.
 This repository contains code that depicts an email-like interface and perform basic functions one can with google mail.
 Using JavaScript, HTML, and CSS, complete the implementation of your single-page-app email client inside of inbox.js the code fufills the following requirements:
 
